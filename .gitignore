@@ -1,0 +1,11 @@
+# Downloaded structures (pipeline.sh re-fetches these from the PDB)
+*.pdb
+
+# fpocket output (regenerated on every run)
+protein_clean_out/
+
+# Generated figures / snapshots
+*.png
+
+# macOS clutter
+.DS_Store
