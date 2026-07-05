@@ -24,19 +24,38 @@ Result: Pocket 1 scores **0.954 druggability** and overlaps the drug site
 ## How to run
 
 ```bash
-bash pipeline.sh
+bash pipeline.sh --pdb ID [--drug CODE] [--chain LETTER]
 ```
+
+Examples:
+
+```bash
+bash pipeline.sh --pdb 3ERT --drug OHT   # ERα: has tamoxifen, one chain (validation runs)
+bash pipeline.sh --pdb 7VOX --chain A    # FOXA1: no drug, keep chain A (detection only)
+```
+
+- `--drug` is optional — omit it if the structure has no drug (the validation step is then skipped).
+- `--chain` is optional — use it to keep a single protein chain and drop DNA / extra copies.
+- Each run writes to its own folder, `runs/<ID>/`.
 
 Requires **fpocket** on your PATH (built from https://github.com/Discngine/fpocket).
 
 ## Visualize on Chimera (optional)
 
-Open `view_pocket1.cmd` in **UCSF Chimera** (File → Open). It shows the protein
-(gray ribbon), tamoxifen (red sticks), and fpocket's Pocket 1 (orange spheres) —
-the red drug should sit inside the orange blob.
+Each run auto-generates a Chimera script at `runs/<ID>/view.cmd`. Open it in
+**UCSF Chimera** (File → Open), or from the terminal:
+
+```bash
+chimera runs/<ID>/view.cmd
+```
+
+It shows the protein (gray ribbon) and fpocket's Pocket 1 (orange spheres); if a
+drug was given, the drug appears as red sticks sitting inside the orange pocket.
 
 ## Files
 
-Only `pipeline.sh`, `view_pocket1.cmd`, `README.md`, and `.gitignore` are tracked.
+Only `pipeline.sh`, `README.md`, and `.gitignore` are tracked. Everything a run
+produces (downloaded structure, cleaned files, fpocket output, `view.cmd`) lands
+in `runs/<ID>/`, which is gitignored — regenerate it any time with `pipeline.sh`.
 All `.pdb` files and `protein_clean_out/` are **generated** by `pipeline.sh`
 (see `.gitignore`).

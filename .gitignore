@@ -1,3 +1,6 @@
+# Per-protein run outputs (everything the pipeline generates)
+runs/
+
 # Downloaded structures (pipeline.sh re-fetches these from the PDB)
 *.pdb
 
