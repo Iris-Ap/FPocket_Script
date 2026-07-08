@@ -12,3 +12,11 @@ protein_clean_out/
 
 # macOS clutter
 .DS_Store
+
+# Obsidian config (if a vault is opened here)
+.obsidian/
+
+# Local results — teammates regenerate these by running the pipeline
+raw_FTMAP_results/
+raw_FPOCKET_results/
+ftmap_zips/
