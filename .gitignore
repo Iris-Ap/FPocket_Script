@@ -20,3 +20,7 @@ protein_clean_out/
 raw_FTMAP_results/
 raw_FPOCKET_results/
 ftmap_zips/
+
+# Python cache
+__pycache__/
+*.pyc
