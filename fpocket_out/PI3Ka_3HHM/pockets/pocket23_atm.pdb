@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0318
+HEADER 1  - Drug Score                        : 0.0211
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0360
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6602
+HEADER 5  - Mean B-factor of pocket residues  : 0.6071
+HEADER 6  - Hydrophobicity Score              : 4.8000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 382.0648
+HEADER 10 - Pocket volume (convex hull)       : 14.8889
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.8750
+ATOM   2002   CA GLU A 237      58.361 119.385  96.094  0.00  0.00           C 0
+ATOM   2031   CB LYS A 240      57.811 115.739  95.096  0.00  0.00           C 0
+ATOM   2032   CG LYS A 240      56.810 114.970  94.239  0.00  0.00           C 0
+ATOM   2005   CB GLU A 237      58.355 120.833  95.549  0.00  0.00           C 0
+ATOM   2001    N GLU A 237      57.242 119.099  97.005  0.77  2.19           N 0
+ATOM   2027    N LYS A 240      58.595 115.578  97.410  0.00  0.00           N 0
+ATOM   2023   CB LEU A 239      57.367 116.081 100.127  0.00  0.00           C 0
+ATOM   2024   CG LEU A 239      56.530 115.261 101.120  0.00  0.00           C 0
+ATOM   1999   CB SER A 236      54.495 119.394  98.502  0.00  0.00           C 0
+ATOM   2000   OG SER A 236      54.224 120.647  97.902  0.62  8.57           O 0
+ATOM   2033   CD LYS A 240      57.489 114.311  93.036  0.00  0.00           C 0
+ATOM   2028   CA LYS A 240      58.588 114.896  96.115  0.00  0.00           C 0
+ATOM   2025  CD1 LEU A 239      56.815 113.746 101.044  0.00  0.00           C 0
+ATOM   1921  NH1 ARG A 226      55.677 109.180  97.355  0.00  0.00           N 0
+ATOM   1918   CD ARG A 226      54.511 109.645  99.902  0.00  0.00           C 0
+ATOM   2022    O LEU A 239      59.441 113.861  98.614  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    53:
+HEADER 0  - Pocket Score                      : -0.1073
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8559
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4923
+HEADER 5  - Mean B-factor of pocket residues  : 0.4580
+HEADER 6  - Hydrophobicity Score              : 22.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 171.1331
+HEADER 10 - Pocket volume (convex hull)       : 4.2081
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM   7539    N PRO A 953      44.374  50.921  99.126  0.53  4.37           N 0
+ATOM   8242   OH TYR A1038      41.482  52.537  92.220  0.70  6.43           O 0
+ATOM   7545   CD PRO A 953      45.645  50.346  98.643  0.00  0.00           C 0
+ATOM   8279  NE2 GLN A1042      39.801  51.821  96.196  0.00  0.00           N 0
+ATOM   8101   OH TYR A1021      47.856  51.560  95.692  0.81  3.21           O 0
+ATOM   8100   CZ TYR A1021      48.611  51.714  94.546  0.00  0.00           C 0
+ATOM   8098  CE1 TYR A1021      49.096  50.598  93.885  0.00  0.00           C 0
+ATOM   8135  OG1 THR A1025      46.770  54.549  92.029  0.80  3.21           O 0
+ATOM   8125   CB LYS A1024      45.495  51.607  88.293  0.00  0.00           C 0
+ATOM   8093    O TYR A1021      48.035  53.456  89.935  0.61  1.07           O 0
+ATOM   8127   CD LYS A1024      46.839  49.564  87.887  0.00  0.00           C 0
+ATOM   8096  CD1 TYR A1021      49.854  50.764  92.730  0.00  0.00           C 0
+ATOM   7285  CE1 PHE A 909      42.411  54.743  95.841  0.00  0.00           C 0
+ATOM   8136  CG2 THR A1025      45.229  55.910  93.185  0.00  0.00           C 0
+ATOM   8130    N THR A1025      45.260  54.360  89.799  0.00  0.00           N 0
+TER
+END

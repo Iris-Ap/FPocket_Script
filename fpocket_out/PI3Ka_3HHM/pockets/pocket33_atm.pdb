@@ -1,0 +1,118 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    33:
+HEADER 0  - Pocket Score                      : -0.0531
+HEADER 1  - Drug Score                        : 0.8991
+HEADER 2  - Number of alpha spheres           :   156
+HEADER 3  - Mean alpha-sphere radius          : 3.8979
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4933
+HEADER 5  - Mean B-factor of pocket residues  : 0.2954
+HEADER 6  - Hydrophobicity Score              : 14.6757
+HEADER 7  - Polarity Score                    :    22
+HEADER 8  - Amino Acid based volume Score     : 4.0270
+HEADER 9  - Pocket volume (Monte Carlo)       : 1569.1375
+HEADER 10 - Pocket volume (convex hull)       : 948.7983
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 29.7667
+HEADER 13 - Number of apolar alpha sphere     :    60
+HEADER 14 - Proportion of apolar alpha sphere : 0.3846
+ATOM   7466  CG1 ILE A 932      55.982  61.420 110.285  0.00  0.00           C 0
+ATOM   7385   SD MET A 922      55.014  65.139 113.265  0.00  0.00           S 0
+ATOM   7467  CG2 ILE A 932      55.600  63.910 109.771  0.00  0.00           C 0
+ATOM   7468  CD1 ILE A 932      55.093  61.696 111.451  0.00  0.00           C 0
+ATOM   7475  OD1 ASP A 933      60.117  57.562 107.924  0.58  9.64           O 0
+ATOM   7489   CA GLY A 935      59.616  55.478 102.778  0.00  0.00           C 0
+ATOM   6508  OD2 ASP A 810      61.467  59.149 103.970  0.58  4.29           O 0
+ATOM   6461   CB ASP A 805      66.666  55.470 106.461  0.00  0.00           C 0
+ATOM   6479  CD1 LEU A 807      65.003  60.345 104.802  0.00  0.00           C 0
+ATOM   6807  CD1 ILE A 848      64.338  62.705 108.037  0.00  0.00           C 0
+ATOM   6507  OD1 ASP A 810      59.697  60.465 104.035  0.00  0.00           O 0
+ATOM   7524    O ASP A 939      53.932  50.237  98.449  0.59  5.36           O 0
+ATOM   7497   CG HIS A 936      57.382  51.117 101.993  0.00  0.00           C 0
+ATOM   7326  OD1 ASP A 915      50.855  49.097 104.457  0.65  5.36           O 0
+ATOM   7532    O HIS A 940      55.627  47.249  99.474  0.38  7.50           O 0
+ATOM   7496   CB HIS A 936      56.535  52.109 101.257  0.00  0.00           C 0
+ATOM   7498  ND1 HIS A 936      57.765  49.909 101.443  0.71  1.09           N 0
+ATOM   7500  CE1 HIS A 936      58.519  49.252 102.307  0.00  0.00           C 0
+ATOM   7536  CD2 HIS A 940      58.923  48.434  97.422  0.00  0.00           C 0
+ATOM   8026  OE2 GLU A1012      60.033  53.105  97.940  0.78  3.21           O 0
+ATOM   8016   CG PRO A1011      63.998  50.746  96.653  0.00  0.00           C 0
+ATOM   6500  NE2 GLN A 809      63.315  54.145  97.786  0.72  3.28           N 0
+ATOM   7327  OD2 ASP A 915      52.280  48.194 105.877  0.62  9.64           O 0
+ATOM   6462   CG ASP A 805      66.520  54.619 107.719  0.00  0.00           C 0
+ATOM   6463  OD1 ASP A 805      66.744  53.385 107.663  0.75  8.57           O 0
+ATOM   7318    C GLY A 914      50.741  52.656 103.955  0.00  0.00           C 0
+ATOM   7317   CA GLY A 914      50.077  52.814 102.609  0.00  0.00           C 0
+ATOM   7316    N GLY A 914      50.875  53.638 101.708  0.50  4.37           N 0
+ATOM   7360    O SER A 919      54.250  58.884 113.389  0.29  6.43           O 0
+ATOM   7473   CB ASP A 933      58.131  58.655 108.679  0.00  0.00           C 0
+ATOM   7476  OD2 ASP A 933      58.996  56.639 109.583  0.00  0.00           O 0
+ATOM   7465   CB ILE A 932      56.160  62.574 109.282  0.00  0.00           C 0
+ATOM   6465    N ASP A 806      67.708  55.366 103.293  0.00  0.00           N 0
+ATOM   6468    O ASP A 806      65.340  56.735 102.428  0.59  5.36           O 0
+ATOM   6214   NZ LYS A 776      61.728  54.935 110.179  0.69  5.47           N 0
+ATOM   6464  OD2 ASP A 805      66.174  55.189 108.775  0.96  4.29           O 0
+ATOM   6200   OG SER A 774      62.769  57.624 116.977  0.73  5.36           O 0
+ATOM   6199   CB SER A 774      63.073  56.248 116.820  0.00  0.00           C 0
+ATOM   6212   CD LYS A 776      63.967  54.961 111.281  0.00  0.00           C 0
+ATOM   8024   CD GLU A1012      60.396  52.616  96.849  0.00  0.00           C 0
+ATOM   7448  CE1 PHE A 930      54.359  67.602 109.665  0.00  0.00           C 0
+ATOM   6830  CG2 VAL A 851      57.279  70.082 109.981  0.00  0.00           C 0
+ATOM   6728  CE2 TYR A 836      56.969  66.147 106.425  0.00  0.00           C 0
+ATOM   7491    O GLY A 935      59.609  54.919 100.453  0.00  0.00           O 0
+ATOM   7325   CG ASP A 915      51.679  49.208 105.415  0.00  0.00           C 0
+ATOM   7324   CB ASP A 915      51.973  50.630 106.043  0.00  0.00           C 0
+ATOM   7472    O ASP A 933      56.844  57.436 106.563  0.50  5.36           O 0
+ATOM   7480    O PHE A 934      56.976  55.737 103.571  0.40  5.36           O 0
+ATOM   7501  NE2 HIS A 936      58.648  49.993 103.394  0.79  7.66           N 0
+ATOM   7538  NE2 HIS A 940      59.972  47.758  96.844  0.70  9.84           N 0
+ATOM   7323    O ASP A 915      51.973  53.161 107.420  0.44  3.21           O 0
+ATOM   7370  ND2 ASN A 920      54.272  56.737 109.639  0.54  4.37           N 0
+ATOM   7347  CE1 HIS A 917      53.148  53.367 111.290  0.00  0.00           C 0
+ATOM   6811    O GLU A 849      61.508  68.360 109.624  0.77  4.29           O 0
+ATOM   6726  CD2 TYR A 836      57.224  67.504 106.424  0.00  0.00           C 0
+ATOM   6727  CE1 TYR A 836      59.319  65.710 106.156  0.00  0.00           C 0
+ATOM   6725  CD1 TYR A 836      59.564  67.084 106.148  0.00  0.00           C 0
+ATOM   6730   OH TYR A 836      57.740  63.910 106.287  0.75  1.07           O 0
+ATOM   7469    N ASP A 933      57.412  60.662 107.426  0.69  2.19           N 0
+ATOM   6213   CE LYS A 776      62.958  54.131 110.497  0.00  0.00           C 0
+ATOM   6443   CE LYS A 802      65.260  58.230 109.514  0.00  0.00           C 0
+ATOM   7319    O GLY A 914      51.752  53.305 104.238  0.32  3.21           O 0
+ATOM   7499  CD2 HIS A 936      57.952  51.167 103.222  0.00  0.00           C 0
+ATOM   6232   CD PRO A 778      66.384  58.639 114.995  0.00  0.00           C 0
+ATOM   6806  CG2 ILE A 848      62.621  65.445 107.944  0.00  0.00           C 0
+ATOM   6729   CZ TYR A 836      58.013  65.256 106.287  0.00  0.00           C 0
+ATOM   7470   CA ASP A 933      58.088  59.357 107.315  0.00  0.00           C 0
+ATOM   6498   CD GLN A 809      63.039  55.319  98.362  0.00  0.00           C 0
+ATOM   6499  OE1 GLN A 809      63.852  55.917  99.088  0.83  2.14           O 0
+ATOM   6824    N VAL A 851      59.212  70.226 112.064  0.75  2.19           N 0
+ATOM   6872  CG2 THR A 856      53.901  61.643 116.121  0.00  0.00           C 0
+ATOM   6188   CE MET A 772      62.333  62.093 117.346  0.00  0.00           C 0
+ATOM   6422  CG1 ILE A 800      64.772  65.112 112.709  0.00  0.00           C 0
+ATOM   7490    C GLY A 935      59.058  54.784 101.544  0.00  0.00           C 0
+ATOM   7369  OD1 ASN A 920      52.483  55.526 109.023  0.42  1.07           O 0
+ATOM   7338  NH2 ARG A 916      53.663  56.895 105.670  0.34  3.28           N 0
+ATOM   6740   SG CYS A 838      63.727  64.098 103.259  0.00  0.00           S 0
+ATOM   6253  CZ3 TRP A 780      62.225  66.189 117.245  0.00  0.00           C 0
+ATOM   6822  CG1 VAL A 850      61.303  69.851 114.612  0.00  0.00           C 0
+ATOM   6823  CG2 VAL A 850      63.198  68.522 113.628  0.00  0.00           C 0
+ATOM   7386   CE MET A 922      55.146  65.390 115.037  0.00  0.00           C 0
+ATOM   6254  CH2 TRP A 780      61.773  67.507 117.463  0.00  0.00           C 0
+ATOM   6444   NZ LYS A 802      64.379  58.966 110.447  0.79  8.75           N 0
+ATOM   6231   CG PRO A 778      66.140  59.862 114.160  0.00  0.00           C 0
+ATOM   6423  CG2 ILE A 800      66.414  63.364 111.955  0.00  0.00           C 0
+ATOM   6442   CD LYS A 802      66.073  59.185 108.650  0.00  0.00           C 0
+ATOM   7474   CG ASP A 933      59.152  57.538 108.727  0.00  0.00           C 0
+ATOM   6805  CG1 ILE A 848      64.498  63.992 107.290  0.00  0.00           C 0
+ATOM   6506   CG ASP A 810      60.820  60.153 103.563  0.00  0.00           C 0
+ATOM   6828   CB VAL A 851      56.855  70.478 111.374  0.00  0.00           C 0
+ATOM   6818   CA VAL A 850      61.554  69.687 112.081  0.00  0.00           C 0
+ATOM   6187   SD MET A 772      63.898  62.354 116.500  0.00  0.00           S 0
+ATOM   6424  CD1 ILE A 800      65.087  65.061 114.198  0.00  0.00           C 0
+ATOM   6827    O VAL A 851      57.131  70.427 114.291  0.50  5.36           O 0
+ATOM   6855   OG SER A 854      54.891  68.655 114.554  0.00  0.00           O 0
+ATOM   6853    O SER A 854      54.590  68.064 117.680  0.26  5.36           O 0
+TER
+END

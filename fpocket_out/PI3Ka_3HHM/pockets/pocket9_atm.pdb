@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0137
+HEADER 1  - Drug Score                        : 0.0130
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8035
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5670
+HEADER 5  - Mean B-factor of pocket residues  : 0.4629
+HEADER 6  - Hydrophobicity Score              : 51.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 223.1595
+HEADER 10 - Pocket volume (convex hull)       : 4.6833
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.8000
+ATOM   6356    N LEU A 793      60.950  87.585 116.115  0.71  3.28           N 0
+ATOM   6349   CA LEU A 792      61.924  87.972 118.309  0.00  0.00           C 0
+ATOM   6353   CG LEU A 792      61.250  89.674 120.239  0.00  0.00           C 0
+ATOM   6354  CD1 LEU A 792      60.812  88.650 121.307  0.00  0.00           C 0
+ATOM   6342    O GLU A 791      61.553  85.364 117.537  0.67  5.36           O 0
+ATOM   6351    O LEU A 792      61.916  89.604 116.544  0.65  3.21           O 0
+ATOM   6355  CD2 LEU A 792      61.697  90.992 120.912  0.00  0.00           C 0
+ATOM   1743   NZ LYS A 204      66.162  92.830 117.286  0.71  2.19           N 0
+ATOM   1741   CD LYS A 204      65.267  95.111 117.191  0.00  0.00           C 0
+ATOM   1674  CZ3 TRP A 195      60.562  96.124 115.640  0.00  0.00           C 0
+ATOM   1675  CH2 TRP A 195      59.373  95.375 115.701  0.00  0.00           C 0
+ATOM   6350    C LEU A 792      61.572  88.473 116.905  0.00  0.00           C 0
+ATOM   6363  CD2 LEU A 793      58.604  90.317 114.281  0.00  0.00           C 0
+ATOM   6332   CE MET A 789      63.928  93.149 114.339  0.00  0.00           C 0
+ATOM   6361   CG LEU A 793      60.105  90.459 114.457  0.00  0.00           C 0
+TER
+END

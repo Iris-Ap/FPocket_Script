@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : -0.0499
+HEADER 1  - Drug Score                        : 0.0525
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.7768
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6067
+HEADER 5  - Mean B-factor of pocket residues  : 0.3883
+HEADER 6  - Hydrophobicity Score              : 38.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 233.9682
+HEADER 10 - Pocket volume (convex hull)       : 5.3933
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 20.0000
+HEADER 13 - Number of apolar alpha sphere     :    21
+HEADER 14 - Proportion of apolar alpha sphere : 0.9130
+ATOM   4176  CD1 LEU A 531      39.841  58.339  66.621  0.00  0.00           C 0
+ATOM   4302  OE1 GLU A 547      44.493  55.177  68.934  0.50  6.43           O 0
+ATOM   4300   CG GLU A 547      45.955  54.866  67.095  0.00  0.00           C 0
+ATOM   4173    O LEU A 531      42.880  60.805  67.152  0.59  1.07           O 0
+ATOM   4328  CD2 PHE A 550      45.843  58.962  63.265  0.00  0.00           C 0
+ATOM   4175   CG LEU A 531      39.761  59.032  65.245  0.00  0.00           C 0
+ATOM   4330  CE2 PHE A 550      44.983  60.072  63.279  0.00  0.00           C 0
+ATOM   4174   CB LEU A 531      40.746  60.220  65.131  0.00  0.00           C 0
+ATOM   4199  CD1 ILE A 534      46.228  59.354  68.521  0.00  0.00           C 0
+ATOM   4290   CB GLN A 546      45.812  51.199  63.648  0.00  0.00           C 0
+ATOM   4289    O GLN A 546      47.535  53.832  62.715  0.66  4.29           O 0
+ATOM   4288    C GLN A 546      47.492  53.017  63.640  0.00  0.00           C 0
+ATOM   4326   CG PHE A 550      45.876  58.094  62.175  0.00  0.00           C 0
+ATOM   4151   NZ LYS A 528      40.932  58.454  60.633  0.41  3.28           N 0
+ATOM   4329  CE1 PHE A 550      44.168  59.446  61.111  0.00  0.00           C 0
+ATOM   4327  CD1 PHE A 550      45.028  58.342  61.100  0.00  0.00           C 0
+ATOM   4325   CB PHE A 550      46.786  56.906  62.177  0.00  0.00           C 0
+ATOM   4331   CZ PHE A 550      44.150  60.312  62.203  0.00  0.00           C 0
+TER
+END

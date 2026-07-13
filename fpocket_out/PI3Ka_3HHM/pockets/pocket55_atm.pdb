@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    55:
+HEADER 0  - Pocket Score                      : -0.1153
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.6574
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6079
+HEADER 5  - Mean B-factor of pocket residues  : 0.3027
+HEADER 6  - Hydrophobicity Score              : 37.7500
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 95.7774
+HEADER 10 - Pocket volume (convex hull)       : 0.5629
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6875
+ATOM    219    C ARG A  19      97.400  61.242 121.395  0.00  0.00           C 0
+ATOM    226  NH1 ARG A  19     100.533  60.813 126.178  0.56  7.66           N 0
+ATOM    229   CA ILE A  20      98.898  60.769 119.511  0.00  0.00           C 0
+ATOM    221   CB ARG A  19      97.777  62.096 123.683  0.00  0.00           C 0
+ATOM    220    O ARG A  19      97.059  60.061 121.491  0.70  7.50           O 0
+ATOM    241   CG LEU A  21     103.562  58.756 119.995  0.00  0.00           C 0
+ATOM    236    N LEU A  21     101.126  60.207 118.801  0.72  1.09           N 0
+ATOM    225   CZ ARG A  19      99.305  60.651 126.663  0.00  0.00           C 0
+ATOM    227  NH2 ARG A  19      98.992  59.514 127.266  0.00  0.00           N 0
+ATOM    228    N ILE A  20      98.183  61.694 120.413  0.00  0.00           N 0
+ATOM    230    C ILE A  20     100.307  61.202 119.135  0.00  0.00           C 0
+ATOM    243  CD2 LEU A  21     104.380  59.785 120.780  0.00  0.00           C 0
+ATOM    344   CG GLU A  35     102.622  63.469 123.317  0.00  0.00           C 0
+TER
+END

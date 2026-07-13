@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1850
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0295
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7424
+HEADER 5  - Mean B-factor of pocket residues  : 0.3644
+HEADER 6  - Hydrophobicity Score              : -16.5714
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 2.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 248.4282
+HEADER 10 - Pocket volume (convex hull)       : 6.3711
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   1870   CB ARG A 233     -26.809  -9.821   4.988  0.00  0.00           C 0
+ATOM   1930    O GLY A 241     -27.129  -7.530   9.265  0.63  2.14           O 0
+ATOM   1917    O GLY A 239     -29.450 -10.730  10.190  0.44  9.64           O 0
+ATOM   1872   CD ARG A 233     -26.551 -10.413   7.398  0.00  0.00           C 0
+ATOM   1911   CB PRO A 238     -30.296 -14.354   6.689  0.00  0.00           C 0
+ATOM   1880    O SER A 234     -28.145 -12.520   2.493  0.52  2.14           O 0
+ATOM   1869    O ARG A 233     -28.255  -9.185   2.114  0.00  0.00           O 0
+ATOM   1884   CA PRO A 235     -30.301 -13.115   0.952  0.00  0.00           C 0
+ATOM   1908   CA PRO A 238     -28.854 -13.844   6.676  0.00  0.00           C 0
+ATOM   1914    N GLY A 239     -28.578 -12.840   8.830  0.00  0.00           N 0
+ATOM   1936   OG SER A 242     -28.686  -4.344   7.201  0.77  3.21           O 0
+ATOM   1927    N GLY A 241     -28.475  -7.624  11.705  0.81  3.28           N 0
+ATOM   1871   CG ARG A 233     -26.136  -9.435   6.295  0.00  0.00           C 0
+ATOM   1929    C GLY A 241     -27.335  -6.460   9.838  0.00  0.00           C 0
+ATOM   1928   CA GLY A 241     -27.885  -6.383  11.252  0.00  0.00           C 0
+ATOM   1866    N ARG A 233     -27.100  -7.582   4.013  0.00  0.00           N 0
+TER
+END

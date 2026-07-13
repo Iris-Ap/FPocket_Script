@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0111
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.0879
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6326
+HEADER 5  - Mean B-factor of pocket residues  : 0.4545
+HEADER 6  - Hydrophobicity Score              : 15.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 337.5399
+HEADER 10 - Pocket volume (convex hull)       : 15.5879
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.3913
+ATOM   8068  OD2 ASP A1017      55.803  47.147  82.569  0.73  8.57           O 0
+ATOM   8062   CA ASP A1017      55.389  49.117  85.032  0.00  0.00           C 0
+ATOM   8061    N ASP A1017      56.451  49.905  84.413  0.00  0.00           N 0
+ATOM   8053    O PHE A1016      55.404  51.883  84.630  0.76  1.07           O 0
+ATOM   8052    C PHE A1016      56.371  51.221  84.259  0.00  0.00           C 0
+ATOM   8054   CB PHE A1016      57.344  52.034  82.099  0.00  0.00           C 0
+ATOM   4789  ND2 ASN A 605      60.841  54.794  76.451  0.00  0.00           N 0
+ATOM   8058  CE1 PHE A1016      60.341  53.352  80.191  0.00  0.00           C 0
+ATOM   4788  OD1 ASN A 605      59.183  56.090  77.270  0.69  6.43           O 0
+ATOM   8056  CD1 PHE A1016      59.437  52.480  80.792  0.00  0.00           C 0
+ATOM   8057  CD2 PHE A1016      58.105  54.351  81.490  0.00  0.00           C 0
+ATOM   4246  CD2 LEU A 540      54.876  55.887  80.006  0.00  0.00           C 0
+ATOM   8055   CG PHE A1016      58.309  52.969  81.436  0.00  0.00           C 0
+ATOM   4260  OE1 GLU A 542      53.260  53.515  76.255  0.00  0.00           O 0
+ATOM   4245  CD1 LEU A 540      53.898  55.100  82.171  0.00  0.00           C 0
+ATOM   4242    O LEU A 540      50.448  54.011  78.683  0.58  7.50           O 0
+ATOM   4261  OE2 GLU A 542      54.183  53.753  74.266  0.41  1.07           O 0
+ATOM   8086   CA ALA A1020      51.359  51.997  86.136  0.00  0.00           C 0
+ATOM   8089   CB ALA A1020      51.369  50.544  85.713  0.00  0.00           C 0
+ATOM   8116   CD ARG A1023      49.913  54.552  82.823  0.00  0.00           C 0
+ATOM   8119  NH1 ARG A1023      47.663  53.054  81.882  0.00  0.00           N 0
+ATOM   4243   CB LEU A 540      52.404  55.335  80.211  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    26:
+HEADER 0  - Pocket Score                      : -0.0391
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8025
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5155
+HEADER 5  - Mean B-factor of pocket residues  : 0.5317
+HEADER 6  - Hydrophobicity Score              : 6.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 233.6843
+HEADER 10 - Pocket volume (convex hull)       : 4.8907
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM   3611  OE1 GLU A 453      63.853  36.392  85.205  0.74  4.29           O 0
+ATOM   3310    O SER A 408      69.589  33.259  82.634  0.59  5.36           O 0
+ATOM   3318  CG1 VAL A 409      65.390  32.020  80.809  0.00  0.00           C 0
+ATOM   3607    O GLU A 453      65.171  38.716  83.384  0.36  9.64           O 0
+ATOM   3358   CG PRO A 421      70.177  36.293  83.621  0.00  0.00           C 0
+ATOM   3608   CB GLU A 453      66.150  37.991  85.834  0.00  0.00           C 0
+ATOM   3316    O VAL A 409      66.585  29.815  83.036  0.56  8.57           O 0
+ATOM   3314   CA VAL A 409      67.736  31.364  81.583  0.00  0.00           C 0
+ATOM   3628  CD2 LEU A 455      68.866  36.249  79.978  0.00  0.00           C 0
+ATOM   3319  CG2 VAL A 409      67.398  33.031  79.685  0.00  0.00           C 0
+ATOM   3626   CG LEU A 455      68.152  37.034  78.894  0.00  0.00           C 0
+ATOM   3627  CD1 LEU A 455      68.054  36.200  77.630  0.00  0.00           C 0
+ATOM   3616    O ASP A 454      67.068  40.599  79.304  0.36  4.29           O 0
+ATOM   3615    C ASP A 454      67.316  40.199  80.445  0.00  0.00           C 0
+ATOM   3614   CA ASP A 454      66.333  40.467  81.574  0.00  0.00           C 0
+TER
+END

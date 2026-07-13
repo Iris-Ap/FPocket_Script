@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    57:
+HEADER 0  - Pocket Score                      : -0.1247
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.7263
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4774
+HEADER 5  - Mean B-factor of pocket residues  : 0.1081
+HEADER 6  - Hydrophobicity Score              : 20.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.9000
+HEADER 9  - Pocket volume (Monte Carlo)       : 349.0791
+HEADER 10 - Pocket volume (convex hull)       : 30.3649
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   6009   CA GLY A 750      78.334  79.196 111.776  0.00  0.00           C 0
+ATOM   6010    C GLY A 750      78.422  78.807 110.315  0.00  0.00           C 0
+ATOM   6090  NE2 GLN A 760      74.895  84.206 108.177  0.54  9.84           N 0
+ATOM   6011    O GLY A 750      79.389  79.137 109.641  0.55  9.64           O 0
+ATOM   6012    N PHE A 751      77.412  78.106 109.815  0.00  0.00           N 0
+ATOM   5603  NE2 HIS A 701      79.313  82.410 103.531  0.71  6.56           N 0
+ATOM   5630  NH2 ARG A 704      81.822  80.993 105.078  0.73  6.56           N 0
+ATOM   5601  CD2 HIS A 701      79.142  81.051 103.604  0.00  0.00           C 0
+ATOM   6030  CD2 LEU A 752      74.458  80.852 105.400  0.00  0.00           C 0
+ATOM   6094    O LEU A 761      75.212  78.567 112.014  0.78  1.07           O 0
+ATOM   6013   CA PHE A 751      77.378  77.693 108.422  0.00  0.00           C 0
+ATOM   6086   CB GLN A 760      72.556  82.162 109.259  0.00  0.00           C 0
+ATOM   6015    O PHE A 751      75.010  77.794 108.736  0.00  0.00           O 0
+ATOM   6014    C PHE A 751      75.939  77.726 107.930  0.00  0.00           C 0
+ATOM   5627   NE ARG A 704      81.646  79.157 106.440  0.69  1.09           N 0
+ATOM   6307   CG PRO A 786      73.197  83.040 112.666  0.00  0.00           C 0
+ATOM   6089  OE1 GLN A 760      73.196  85.189 109.289  0.70  7.50           O 0
+ATOM   6306   CB PRO A 786      73.525  83.962 113.769  0.00  0.00           C 0
+ATOM   5628   CZ ARG A 704      82.408  80.050 105.800  0.00  0.00           C 0
+ATOM   6100   CA GLY A 762      74.595  79.849 114.374  0.00  0.00           C 0
+ATOM   6110  ND2 ASN A 763      77.847  79.930 117.773  0.81  9.84           N 0
+TER
+END

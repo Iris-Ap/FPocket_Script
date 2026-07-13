@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    41:
+HEADER 0  - Pocket Score                      : -0.0778
+HEADER 1  - Drug Score                        : 0.0095
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.6994
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3900
+HEADER 5  - Mean B-factor of pocket residues  : 0.2538
+HEADER 6  - Hydrophobicity Score              : 31.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 253.9260
+HEADER 10 - Pocket volume (convex hull)       : 16.5525
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.5455
+ATOM   4647   CB LYS A 588      64.510  71.573  61.979  0.00  0.00           C 0
+ATOM   3893   CG MET A 489      70.648  68.900  60.891  0.00  0.00           C 0
+ATOM   4613    O TYR A 584      64.103  68.330  61.942  0.71  2.14           O 0
+ATOM   3924  OE1 GLU A 493      67.976  71.891  58.178  0.74  1.07           O 0
+ATOM   4648   CG LYS A 588      65.525  72.690  61.863  0.00  0.00           C 0
+ATOM   4644   CA LYS A 588      63.699  71.604  63.274  0.00  0.00           C 0
+ATOM   4887  NH2 ARG A 617      68.002  72.368  68.338  0.58  9.84           N 0
+ATOM   4830   SD MET A 610      69.424  67.697  65.487  0.00  0.00           S 0
+ATOM   3922   CG GLU A 493      68.326  69.822  57.018  0.00  0.00           C 0
+ATOM   4614   CB TYR A 584      65.983  65.673  61.401  0.00  0.00           C 0
+ATOM   3894   SD MET A 489      70.408  67.222  61.516  0.00  0.00           S 0
+ATOM   4829   CG MET A 610      67.787  66.941  65.265  0.00  0.00           C 0
+ATOM   4612    C TYR A 584      64.079  67.287  61.294  0.00  0.00           C 0
+ATOM   4646    O LYS A 588      63.355  73.855  64.036  0.00  0.00           O 0
+ATOM   4886  NH1 ARG A 617      65.843  73.002  68.759  0.57  7.66           N 0
+ATOM   4884   NE ARG A 617      67.596  74.294  69.503  0.72  7.66           N 0
+ATOM   4883   CD ARG A 617      66.735  75.285  70.138  0.00  0.00           C 0
+ATOM   4885   CZ ARG A 617      67.146  73.219  68.869  0.00  0.00           C 0
+ATOM   4641  CG1 VAL A 587      63.280  68.471  66.318  0.00  0.00           C 0
+ATOM   4827    O MET A 610      66.171  67.795  68.870  0.71  1.07           O 0
+TER
+END

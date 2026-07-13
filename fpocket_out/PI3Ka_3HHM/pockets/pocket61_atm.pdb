@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    61:
+HEADER 0  - Pocket Score                      : -0.1304
+HEADER 1  - Drug Score                        : 0.0048
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.9785
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4800
+HEADER 5  - Mean B-factor of pocket residues  : 0.3469
+HEADER 6  - Hydrophobicity Score              : 38.9000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 178.1502
+HEADER 10 - Pocket volume (convex hull)       : 4.4568
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.5600
+ATOM   1448   OH TYR A 167      74.240  87.306 101.622  0.00  0.00           O 0
+ATOM   2492    O GLN A 296      79.008  90.788 101.388  0.60  5.36           O 0
+ATOM   5602  CE1 HIS A 701      79.407  82.765 102.260  0.00  0.00           C 0
+ATOM   2505  CD2 LEU A 297      76.765  89.565  98.210  0.00  0.00           C 0
+ATOM   1435  CG1 VAL A 166      74.871  86.125  97.660  0.00  0.00           C 0
+ATOM   5261  NE2 GLN A 661      75.211  82.302  97.468  0.75  3.28           N 0
+ATOM   5600  ND1 HIS A 701      79.309  81.677 101.516  0.67  1.09           N 0
+ATOM   2520   CE MET A 299      79.823  85.088  94.954  0.00  0.00           C 0
+ATOM   2512   CD PRO A 298      81.760  89.574 100.112  0.00  0.00           C 0
+ATOM   5565    N TYR A 698      80.714  81.149  96.972  0.00  0.00           N 0
+ATOM   5566   CA TYR A 698      79.822  80.183  97.611  0.00  0.00           C 0
+ATOM   5260  OE1 GLN A 661      76.510  82.440  95.622  0.81  1.07           O 0
+ATOM   5561   CB MET A 697      82.371  84.111  97.573  0.00  0.00           C 0
+ATOM   2509    O PRO A 298      82.355  87.965  97.153  0.50  3.21           O 0
+ATOM   2511   CG PRO A 298      83.027  88.775 100.217  0.00  0.00           C 0
+ATOM   1436  CG2 VAL A 166      76.186  86.224  95.542  0.00  0.00           C 0
+ATOM   5559    C MET A 697      81.695  81.710  97.668  0.00  0.00           C 0
+TER
+END

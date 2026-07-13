@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.2608
+HEADER 1  - Drug Score                        : 0.1806
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0795
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7954
+HEADER 5  - Mean B-factor of pocket residues  : 0.1841
+HEADER 6  - Hydrophobicity Score              : 12.6000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 175.0842
+HEADER 10 - Pocket volume (convex hull)       : 2.4186
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5882
+ATOM    691    N ALA A 314      -5.615  23.481  -3.440  0.00  0.00           N 0
+ATOM    695   CB ALA A 314      -3.865  24.626  -2.155  0.00  0.00           C 0
+ATOM    687    C SER A 313      -6.906  23.511  -3.757  0.00  0.00           C 0
+ATOM    689   CB SER A 313      -8.745  22.148  -2.740  0.00  0.00           C 0
+ATOM    688    O SER A 313      -7.504  24.557  -3.985  0.00  0.00           O 0
+ATOM    674  ND1 HIS A 311      -6.030  20.696  -0.726  0.69  1.09           N 0
+ATOM    676  CE1 HIS A 311      -7.111  20.345  -0.053  0.00  0.00           C 0
+ATOM    677  NE2 HIS A 311      -6.801  20.290   1.230  0.00  0.00           N 0
+ATOM    675  CD2 HIS A 311      -5.474  20.605   1.383  0.00  0.00           C 0
+ATOM    673   CG HIS A 311      -4.981  20.861   0.149  0.00  0.00           C 0
+ATOM    531   CA MET A 294      -1.167  23.933   1.517  0.00  0.00           C 0
+ATOM    525    O ASP A 293      -1.939  22.341   3.590  0.57  6.43           O 0
+ATOM    530    N MET A 294      -1.212  24.331   2.925  0.00  0.00           N 0
+ATOM    534   CB MET A 294      -1.014  25.142   0.590  0.00  0.00           C 0
+ATOM    672   CB HIS A 311      -3.610  21.261  -0.299  0.00  0.00           C 0
+ATOM    524    C ASP A 293      -1.565  23.463   3.862  0.00  0.00           C 0
+ATOM    526   CB ASP A 293      -2.818  24.122   5.957  0.00  0.00           C 0
+TER
+END

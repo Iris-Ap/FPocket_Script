@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    68:
+HEADER 0  - Pocket Score                      : -0.1694
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0105
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5345
+HEADER 5  - Mean B-factor of pocket residues  : 0.4849
+HEADER 6  - Hydrophobicity Score              : -1.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 301.3795
+HEADER 10 - Pocket volume (convex hull)       : 20.6940
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4118
+ATOM   8162   CB ASP A1029      42.363  53.075  80.770  0.00  0.00           C 0
+ATOM   8126   CG LYS A1024      46.016  50.657  87.242  0.00  0.00           C 0
+ATOM   8165  OD2 ASP A1029      44.490  52.027  80.526  0.76  9.64           O 0
+ATOM   8148    O ALA A1027      42.662  55.019  84.666  0.52  5.36           O 0
+ATOM   8113    O ARG A1023      45.445  54.740  85.613  0.50  1.07           O 0
+ATOM   8122   CA LYS A1024      45.202  53.019  87.778  0.00  0.00           C 0
+ATOM   8173   CE LYS A1030      38.030  52.028  85.360  0.00  0.00           C 0
+ATOM   8171   CG LYS A1030      38.209  53.779  83.561  0.00  0.00           C 0
+ATOM   8161    O ASP A1029      39.588  53.614  80.420  0.62  8.57           O 0
+ATOM   8124    O LYS A1024      43.264  53.956  88.831  0.62  3.21           O 0
+ATOM   8241   CZ TYR A1038      40.330  53.050  91.668  0.00  0.00           C 0
+ATOM   8242   OH TYR A1038      41.482  52.537  92.220  0.70  6.43           O 0
+ATOM   8239  CE1 TYR A1038      39.194  52.254  91.549  0.00  0.00           C 0
+ATOM   8125   CB LYS A1024      45.495  51.607  88.293  0.00  0.00           C 0
+ATOM   8174   NZ LYS A1030      37.693  51.798  86.794  0.00  0.00           N 0
+ATOM   8119  NH1 ARG A1023      47.663  53.054  81.882  0.00  0.00           N 0
+ATOM   8128   CE LYS A1024      47.715  48.866  86.864  0.00  0.00           C 0
+TER
+END

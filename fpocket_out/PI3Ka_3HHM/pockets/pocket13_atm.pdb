@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0008
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.6474
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5676
+HEADER 5  - Mean B-factor of pocket residues  : 0.4571
+HEADER 6  - Hydrophobicity Score              : -4.7500
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 160.3723
+HEADER 10 - Pocket volume (convex hull)       : 3.7632
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM   7406    O ASP A 925      46.211  74.405 117.400  0.82  2.14           O 0
+ATOM     60  NE2 HIS A -22      50.695  78.764 116.506  0.57  8.75           N 0
+ATOM   7092    O LYS A 884      44.482  77.258 120.728  0.00  0.00           O 0
+ATOM   7407   CB ASP A 925      49.210  74.318 118.355  0.00  0.00           C 0
+ATOM   7105  ND2 ASN A 885      43.776  77.173 117.291  0.00  0.00           N 0
+ATOM   7134  CG2 ILE A 889      41.668  79.998 117.038  0.00  0.00           C 0
+ATOM   7135  CD1 ILE A 889      42.484  82.858 118.038  0.00  0.00           C 0
+ATOM     88  CD2 HIS A -19      43.510  78.772 114.114  0.00  0.00           C 0
+ATOM     81    N HIS A -19      45.295  82.341 113.636  0.48  4.37           N 0
+ATOM     64    O HIS A -21      48.142  80.088 113.656  0.55  2.14           O 0
+ATOM     59  CE1 HIS A -22      51.004  77.479 116.517  0.00  0.00           C 0
+ATOM   7405    C ASP A 925      47.256  74.167 116.795  0.00  0.00           C 0
+ATOM     85   CB HIS A -19      43.081  81.330 113.975  0.00  0.00           C 0
+ATOM   7411    N ASP A 926      47.479  74.554 115.537  0.00  0.00           N 0
+ATOM   7415   CB ASP A 926      47.222  76.319 113.830  0.00  0.00           C 0
+ATOM   7412   CA ASP A 926      46.506  75.342 114.768  0.00  0.00           C 0
+TER
+END

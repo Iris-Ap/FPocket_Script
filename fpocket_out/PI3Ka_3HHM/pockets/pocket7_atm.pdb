@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0312
+HEADER 1  - Drug Score                        : 0.0062
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.6803
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3977
+HEADER 5  - Mean B-factor of pocket residues  : 0.1175
+HEADER 6  - Hydrophobicity Score              : 34.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 161.7033
+HEADER 10 - Pocket volume (convex hull)       : 9.5987
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.4800
+ATOM   5348  ND1 HIS A 670      69.081  67.290  95.067  0.83  2.19           N 0
+ATOM   5346   CB HIS A 670      70.711  67.155  93.146  0.00  0.00           C 0
+ATOM   5055  NE2 GLN A 637      69.326  61.471  90.265  0.58  4.37           N 0
+ATOM   5021  CG2 ILE A 633      64.831  64.717  92.314  0.00  0.00           C 0
+ATOM   5018    O ILE A 633      66.362  64.989  89.471  0.78  2.14           O 0
+ATOM   5045  CG1 VAL A 636      71.065  65.515  89.288  0.00  0.00           C 0
+ATOM   6516   CE MET A 811      66.576  63.578  97.053  0.00  0.00           C 0
+ATOM   5374   OG SER A 673      72.318  63.355  96.001  0.51  3.21           O 0
+ATOM   7980   CE MET A1005      64.738  61.775  91.396  0.00  0.00           C 0
+ATOM   6487   CD ARG A 808      68.227  58.632  96.023  0.00  0.00           C 0
+ATOM   6485   CB ARG A 808      66.043  59.020  97.182  0.00  0.00           C 0
+ATOM   6484    O ARG A 808      63.210  60.568  97.346  0.62  3.21           O 0
+ATOM   6486   CG ARG A 808      67.510  59.409  97.097  0.00  0.00           C 0
+ATOM   8010   CE MET A1010      65.292  57.902  93.512  0.00  0.00           C 0
+ATOM   5347   CG HIS A 670      69.523  67.743  93.842  0.00  0.00           C 0
+ATOM   5345    O HIS A 670      72.823  64.671  93.288  0.55  2.14           O 0
+ATOM   5016   CA ILE A 633      65.661  66.710  91.013  0.00  0.00           C 0
+ATOM   5382  OE1 GLU A 674      70.869  59.910  92.318  0.40  4.29           O 0
+TER
+END

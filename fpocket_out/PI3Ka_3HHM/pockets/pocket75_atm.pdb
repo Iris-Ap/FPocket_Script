@@ -1,0 +1,69 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    75:
+HEADER 0  - Pocket Score                      : -0.2382
+HEADER 1  - Drug Score                        : 0.0234
+HEADER 2  - Number of alpha spheres           :    67
+HEADER 3  - Mean alpha-sphere radius          : 4.0182
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5260
+HEADER 5  - Mean B-factor of pocket residues  : 0.2598
+HEADER 6  - Hydrophobicity Score              : 5.7895
+HEADER 7  - Polarity Score                    :    16
+HEADER 8  - Amino Acid based volume Score     : 4.3158
+HEADER 9  - Pocket volume (Monte Carlo)       : 823.4543
+HEADER 10 - Pocket volume (convex hull)       : 232.8374
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 9.2308
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.1940
+ATOM   6582  CG2 ILE A 819      53.331  69.560  90.891  0.00  0.00           C 0
+ATOM   7911  CD1 LEU A 997      52.874  69.030  87.299  0.00  0.00           C 0
+ATOM   6614  CG1 ILE A 823      48.948  71.080  89.806  0.00  0.00           C 0
+ATOM   5006   OH TYR A 631      55.825  71.847  87.205  0.61  3.21           O 0
+ATOM   6605   CB ASN A 822      51.672  74.022  93.040  0.00  0.00           C 0
+ATOM   6608  ND2 ASN A 822      52.157  75.903  91.597  0.00  0.00           N 0
+ATOM   4994  NE2 GLN A 630      56.308  73.908  92.235  0.41  2.19           N 0
+ATOM   4728  OE1 GLN A 597      51.843  70.899  76.983  0.47  8.57           O 0
+ATOM   4700   CB LYS A 594      53.858  74.048  78.184  0.00  0.00           C 0
+ATOM   4702   CD LYS A 594      51.766  75.474  78.386  0.00  0.00           C 0
+ATOM   4719  OE1 GLU A 596      54.534  73.520  82.207  0.76  4.29           O 0
+ATOM   6579    O ILE A 819      51.094  70.904  92.799  0.00  0.00           O 0
+ATOM   1497   CB SER A 174      51.347  83.433  87.941  0.00  0.00           C 0
+ATOM   1493    N SER A 174      53.682  83.288  88.720  0.00  0.00           N 0
+ATOM   6647  ND2 ASN A 826      48.459  79.807  91.254  0.71  3.28           N 0
+ATOM   1492   OG SER A 173      55.173  79.865  88.838  0.74  8.57           O 0
+ATOM   2326  NH1 ARG A 274      51.164  83.775  93.593  0.76  2.19           N 0
+ATOM   6645   CG ASN A 826      48.508  78.478  91.350  0.00  0.00           C 0
+ATOM   4971   NZ LYS A 627      54.763  75.853  88.294  0.60  8.75           N 0
+ATOM   4720  OE2 GLU A 596      55.169  73.417  84.318  0.64  3.21           O 0
+ATOM   7888  ND1 HIS A 994      48.164  70.533  85.964  0.67  6.56           N 0
+ATOM   6644   CB ASN A 826      47.309  77.712  90.807  0.00  0.00           C 0
+ATOM   1485  OE1 GLU A 172      54.184  80.580  94.023  0.52  7.50           O 0
+ATOM   1482   CB GLU A 172      54.715  82.993  92.806  0.00  0.00           C 0
+ATOM   1487    N SER A 173      55.760  82.066  90.077  0.00  0.00           N 0
+ATOM   6643    O ASN A 826      44.518  78.419  90.047  0.41  5.36           O 0
+ATOM   6653   CG GLN A 827      42.775  74.360  89.332  0.00  0.00           C 0
+ATOM   6612    O ILE A 823      45.711  73.901  91.268  0.00  0.00           O 0
+ATOM   6609    N ILE A 823      48.928  72.972  92.224  0.00  0.00           N 0
+ATOM   6610   CA ILE A 823      47.835  72.798  91.272  0.00  0.00           C 0
+ATOM   7890  CE1 HIS A 994      47.471  71.655  85.885  0.00  0.00           C 0
+ATOM   4718   CD GLU A 596      54.799  72.870  83.248  0.00  0.00           C 0
+ATOM   4717   CG GLU A 596      54.657  71.347  83.239  0.00  0.00           C 0
+ATOM   7910   CG LEU A 997      53.370  68.445  85.998  0.00  0.00           C 0
+ATOM   7901   CB ASN A 996      50.319  64.827  81.658  0.00  0.00           C 0
+ATOM   7904  ND2 ASN A 996      49.796  64.792  79.284  0.45  4.37           N 0
+ATOM   4726   CG GLN A 597      53.376  69.077  77.263  0.00  0.00           C 0
+ATOM   7883   CA HIS A 994      47.326  67.146  85.464  0.00  0.00           C 0
+ATOM   7876    O GLN A 993      45.393  67.336  83.484  0.33  6.43           O 0
+ATOM   6646  OD1 ASN A 826      49.453  77.886  91.880  0.74  4.29           O 0
+ATOM   7891  NE2 HIS A 994      46.218  71.394  86.210  0.66  5.47           N 0
+ATOM   4716   CB GLU A 596      54.771  70.720  81.850  0.00  0.00           C 0
+ATOM   6604    O ASN A 822      48.535  75.159  92.707  0.00  0.00           O 0
+ATOM   7905    N LEU A 997      52.004  65.544  83.977  0.76  2.19           N 0
+ATOM   7885    O HIS A 994      49.383  65.929  85.589  0.00  0.00           O 0
+ATOM   7909   CB LEU A 997      52.518  67.210  85.688  0.00  0.00           C 0
+ATOM   6642    C ASN A 826      44.789  77.655  90.963  0.00  0.00           C 0
+TER
+END

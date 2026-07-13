@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0295
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8366
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5370
+HEADER 5  - Mean B-factor of pocket residues  : 0.4416
+HEADER 6  - Hydrophobicity Score              : 21.6250
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 246.8807
+HEADER 10 - Pocket volume (convex hull)       : 14.1238
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM   7562  CG1 VAL A 955      44.898  55.650 106.545  0.00  0.00           C 0
+ATOM   7546    N PHE A 954      43.197  53.334 101.602  0.00  0.00           N 0
+ATOM   7549    O PHE A 954      41.370  53.816 103.950  0.00  5.36           O 0
+ATOM   7548    C PHE A 954      42.116  54.656 103.429  0.00  0.00           C 0
+ATOM   7317   CA GLY A 914      50.077  52.814 102.609  0.00  0.00           C 0
+ATOM   7320    N ASP A 915      50.171  51.789 104.785  0.00  0.00           N 0
+ATOM   7543   CB PRO A 953      45.994  52.348 100.025  0.00  0.00           C 0
+ATOM   7540   CA PRO A 953      44.578  51.806 100.270  0.00  0.00           C 0
+ATOM   7544   CG PRO A 953      46.708  51.208  99.314  0.00  0.00           C 0
+ATOM   7557    N VAL A 955      42.645  55.678 104.105  0.65  1.09           N 0
+ATOM   7276  CG2 THR A 908      47.167  57.815 101.690  0.00  0.00           C 0
+ATOM   7326  OD1 ASP A 915      50.855  49.097 104.457  0.65  5.36           O 0
+ATOM   7333   CG ARG A 916      48.984  56.217 105.634  0.00  0.00           C 0
+ATOM   7311    O ILE A 913      49.505  55.417 101.861  0.67  2.14           O 0
+ATOM   7328    N ARG A 916      49.832  53.652 106.868  0.51  1.09           N 0
+ATOM   7331    O ARG A 916      48.771  53.314 109.254  0.63  7.50           O 0
+ATOM   7321   CA ASP A 915      50.709  51.527 106.117  0.00  0.00           C 0
+TER
+END

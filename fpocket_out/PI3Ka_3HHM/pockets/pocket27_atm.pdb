@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.0413
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9887
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5340
+HEADER 5  - Mean B-factor of pocket residues  : 0.6396
+HEADER 6  - Hydrophobicity Score              : 8.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 185.7988
+HEADER 10 - Pocket volume (convex hull)       : 3.3431
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   2884  CE2 TYR A 355      72.696  31.630  76.918  0.00  0.00           C 0
+ATOM   2856  OD1 ASP A 352      71.177  27.565  81.493  0.20  3.21           O 0
+ATOM   3029  OE1 GLN A 374      71.682  27.560  74.452  0.00  0.00           O 0
+ATOM   2853    O ASP A 352      73.866  27.397  79.732  0.23  5.36           O 0
+ATOM   2886   OH TYR A 355      70.601  32.756  77.117  0.00  0.00           O 0
+ATOM   3320    N LYS A 410      67.698  28.930  81.269  0.59  3.28           N 0
+ATOM   3323    O LYS A 410      65.337  27.788  80.040  0.69  1.07           O 0
+ATOM   3317   CB VAL A 409      66.849  31.791  80.370  0.00  0.00           C 0
+ATOM   3313    N VAL A 409      69.186  31.465  81.299  0.57  2.19           N 0
+ATOM   3329    N GLY A 411      66.401  25.798  79.963  0.00  0.00           N 0
+ATOM   3330   CA GLY A 411      65.489  25.185  79.002  0.00  0.00           C 0
+ATOM   3321   CA LYS A 410      67.284  27.515  81.441  0.00  0.00           C 0
+ATOM   3322    C LYS A 410      66.246  27.043  80.412  0.00  0.00           C 0
+TER
+END

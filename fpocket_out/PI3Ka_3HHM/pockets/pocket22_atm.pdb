@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : -0.0307
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8935
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6561
+HEADER 5  - Mean B-factor of pocket residues  : 0.2619
+HEADER 6  - Hydrophobicity Score              : 2.7778
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 302.5077
+HEADER 10 - Pocket volume (convex hull)       : 12.6823
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2941
+ATOM   7409  OD1 ASP A 925      51.192  74.173 119.684  0.52  9.64           O 0
+ATOM   6848  OD1 ASN A 853      55.146  75.369 119.130  0.55  9.64           O 0
+ATOM   7097   NZ LYS A 884      49.648  72.949 122.683  0.00  0.00           N 0
+ATOM   6864  CE1 HIS A 855      52.635  69.343 120.736  0.00  0.00           C 0
+ATOM   6843   CA ASN A 853      54.528  72.875 117.659  0.00  0.00           C 0
+ATOM   6865  NE2 HIS A 855      53.468  68.523 121.351  0.67  6.56           N 0
+ATOM   6850    N SER A 854      54.159  70.617 116.836  0.00  0.00           N 0
+ATOM   6853    O SER A 854      54.590  68.064 117.680  0.26  5.36           O 0
+ATOM   6842    N ASN A 853      55.906  72.858 117.143  0.60  6.56           N 0
+ATOM   6832   CA ARG A 852      57.662  72.924 115.452  0.00  0.00           C 0
+ATOM   6254  CH2 TRP A 780      61.773  67.507 117.463  0.00  0.00           C 0
+ATOM   6252  CZ2 TRP A 780      62.648  68.521 117.748  0.00  0.00           C 0
+ATOM   6408  OE2 GLU A 798      63.431  71.516 118.223  0.52  8.57           O 0
+ATOM   6839   CZ ARG A 852      60.741  75.847 119.288  0.00  0.00           C 0
+ATOM   6841  NH2 ARG A 852      61.655  75.711 120.241  0.27  5.47           N 0
+ATOM   6407  OE1 GLU A 798      62.426  73.144 117.115  0.76  2.14           O 0
+ATOM   6822  CG1 VAL A 850      61.303  69.851 114.612  0.00  0.00           C 0
+ATOM   6836   CG ARG A 852      59.058  74.365 116.987  0.00  0.00           C 0
+ATOM   6838   NE ARG A 852      60.999  75.411 118.061  0.00  0.00           N 0
+ATOM   6840  NH1 ARG A 852      59.573  76.419 119.563  0.59  3.28           N 0
+TER
+END
