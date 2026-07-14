@@ -1,0 +1,7 @@
+protein,pdbid,type,drug,selected_pocket,Score,Druggability Score,Number of Alpha Spheres,Total SASA,Polar SASA,Apolar SASA,Volume,Mean local hydrophobic density,Mean alpha sphere radius,Mean alp. sph. solvent access,Apolar alpha sphere proportion,Hydrophobicity score,Volume score,Polarity score,Charge score,Proportion of polar atoms,Alpha sphere density,Cent. of mass - Alpha Sphere max dist,Flexibility
+FOXA1,7VOX,TF,,P6,0.071,0.232,16,61.150,16.072,45.078,172.595,13.000,4.030,0.656,0.875,44.000,4.667,2,0,21.429,1.418,4.175,0.303
+FOXM1,3G73,TF,,P2,0.261,0.181,17,58.902,13.012,45.890,175.084,9.000,4.080,0.795,0.588,12.600,3.200,3,0,35.294,1.839,3.780,0.184
+FOXO3,2UZK,TF,,P1,0.409,0.856,58,148.534,20.446,128.088,673.871,41.208,3.747,0.457,0.828,46.357,4.643,6,0,27.500,5.309,16.476,0.267
+ERa,3ERT,control,OHT,P1,0.241,0.954,107,222.529,48.393,174.136,857.000,57.098,4.084,0.557,0.766,58.111,4.519,7,-1,25.806,6.388,15.867,0.176
+HER2,3PP0,control,03Q,P1,0.178,0.526,146,321.352,149.552,171.800,1253.754,39.870,3.962,0.471,0.527,28.344,3.969,14,1,39.744,8.739,22.741,0.193
+PI3Ka,3HHM,control,KWT,P33,-0.053,0.899,156,411.458,188.700,222.758,1569.137,29.767,3.898,0.493,0.385,14.676,4.027,22,-2,39.583,10.057,24.686,0.295

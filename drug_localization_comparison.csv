@@ -1,0 +1,4 @@
+protein,pdbid,drug,fpocket_pocket,fpocket_dist_A,fpocket_pct_enclosed,fpocket_atoms_enclosed,dogsite_pocket,dogsite_dist_A,dogsite_pct_enclosed,dogsite_atoms_enclosed
+ERa,3ERT,OHT,P1,1.23,69,20/29,P_0,5.5,69,20/29
+HER2,3PP0,03Q,P1,1.09,100,34/34,P_0,4.2,100,34/34
+PI3Ka,3HHM,KWT,P33,6.9,58,18/31,P_4,34.1,0,0/31
